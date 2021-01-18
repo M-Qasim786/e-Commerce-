@@ -1,0 +1,2 @@
+2021-01-17T03:18:27+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 5242880 bytes) in C:\xampp\htdocs\eCom\wp-content\plugins\elementskit-lite\modules\onepage-scroll\init.php on line 56
+
